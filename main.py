@@ -40,7 +40,7 @@ class Beaver:
             
             #initialise eye as black on color
             ear.color = self.furcolor
-            self.ears.append(ear) #add eye to list of eyes
+            self.ear.append(ear) #add eye to list of eyes
 
  #stores a Beaver in variable b 
 
@@ -70,8 +70,6 @@ while True:
     frames += 2
 
 
-
-# PROFESSOR MORG
 
 
 
